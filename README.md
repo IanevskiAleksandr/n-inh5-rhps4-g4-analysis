@@ -48,7 +48,6 @@ Negative normZ values indicate sensitization after BAP1 knockout. The Olivieri `
 
 - Zyner, K.G. *et al.* Genetic interactions of G-quadruplexes in humans. *eLife* **8**, e46793 (2019), [doi:10.7554/eLife.46793](https://doi.org/10.7554/eLife.46793). Supplementary files 1 and 2 are downloaded from eLife and are licensed under CC BY 4.0 with the article.
 - Olivieri, M. *et al.* A genetic map of the response to DNA damage in human cells. *Cell* **182**, 481–496.e21 (2020), [doi:10.1016/j.cell.2020.05.040](https://doi.org/10.1016/j.cell.2020.05.040). The analysis files are from [Mendeley Data version 2](https://doi.org/10.17632/gfcn2wmrpf.2), licensed under CC BY 4.0.
-- DrugZ is available from the [Hart laboratory repository](https://github.com/hart-lab/drugz) under the MIT License.
 
 Only compact derived tables are distributed in `data/external/`. The original files remain attributable to their authors and retain their source licenses.
 
