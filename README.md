@@ -1,8 +1,8 @@
 # N-inh5–RHPS4 G4 analysis
 
-Code and compact source data for Figure 7 and Supplementary Figure 5 of *G-Quadruplex stabilization via N-inh5 and RHPS4 induces cell cycle arrest and senescence in glioblastoma*.
+Code and compact source data for the analysis in *G-Quadruplex stabilization via N-inh5 and RHPS4 induces cell cycle arrest and senescence in glioblastoma*.
 
-The repository contains processed BG4 CUT&Tag and RNA contrast tables used for Figure 7. Raw sequencing data are not duplicated here and should be cited through the accession reported with the manuscript. Repository authorship covers the code release; manuscript authorship is separate.
+The repository contains processed BG4 CUT&Tag and RNA contrast tables used in the study. Raw sequencing data are not duplicated here and should be cited through the accession reported with the manuscript. Repository authorship covers the code release; manuscript authorship is separate.
 
 ## Reproduction
 
