@@ -55,7 +55,7 @@ Only compact derived tables are distributed in `data/external/`. The original fi
 
 R ≥ 4.5.0 with the packages recorded in `DESCRIPTION`. Bioconductor dependencies include DESeq2, GenomicRanges, BSgenome.Hsapiens.UCSC.hg38 and pqsfinder; BAP1 validation additionally uses readxl.
 
-The computational methods are provided in [METHODS.md](METHODS.md), and package versions are recorded in [sessionInfo.txt](sessionInfo.txt).
+Package versions are recorded in [sessionInfo.txt](sessionInfo.txt).
 
 ## License
 
