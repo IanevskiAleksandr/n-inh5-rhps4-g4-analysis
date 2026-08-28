@@ -1,0 +1,23 @@
+Package: Ninh5Rhps4G4Analysis
+Type: Project
+Title: G-Quadruplex Stabilization by N-inh5 and RHPS4 in Glioblastoma
+Version: 1.0.0
+Authors@R: person("Aleksandr", "Ianevski", role = c("aut", "cre"), comment = "Repository and code author; manuscript authorship is separate")
+Description: Reproduces Figure 7 and Supplementary Figure 5 for the study of G-quadruplex remodeling, cell-cycle arrest and senescence after N-inh5 and RHPS4 treatment in glioblastoma cells.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.5.0)
+Imports:
+    BSgenome.Hsapiens.UCSC.hg38,
+    circlize,
+    DESeq2,
+    GenomicRanges,
+    ggplot2,
+    ggrepel,
+    patchwork,
+    png,
+    pqsfinder,
+    readxl (>= 1.4.5),
+    scales
+URL: https://github.com/IanevskiAleksandr/n-inh5-rhps4-g4-analysis
+BugReports: https://github.com/IanevskiAleksandr/n-inh5-rhps4-g4-analysis/issues

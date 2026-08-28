@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Cite this software for the analysis code; cite the associated manuscript separately for the study."
+title: "G-Quadruplex stabilization via N-inh5 and RHPS4 induces cell cycle arrest and senescence in glioblastoma"
+type: software
+authors:
+  - family-names: "Ianevski"
+    given-names: "Aleksandr"
+version: 1.0.0
+repository-code: "https://github.com/IanevskiAleksandr/n-inh5-rhps4-g4-analysis"
+license: MIT
+keywords:
+  - G-quadruplex
+  - BG4 CUT&Tag
+  - glioblastoma
+  - RHPS4
+  - N-inh5
+  - BAP1
+

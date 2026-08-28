@@ -1,0 +1,32 @@
+screen	source_column	normZ	FDR	screen_rank	highlight	gene_rank	n_genes
+Phen-DC3	PhenDC3	-5.81	7.87e-06	1	Phen-DC3	7	17298
+Cisplatin.1	Cisplatin.1	-2.6	0.614	2	Other treatments	131	17382
+Pyridostatin	Pyridostatin	-2.56	0.552	3	Pyridostatin	163	17374
+Cisplatin.3	Cisplatin.3	-2.35	0.712	4	Other treatments	226	17272
+Cisplatin.2	Cisplatin.2	-2.13	1.42	5	Other treatments	202	17249
+KBrO3	KBrO3	-1.99	1.09	6	Other treatments	375	17380
+MLN4924	MLN4924	-1.99	0.923	7	Other treatments	448	17380
+MNNG	MNNG	-1.84	1.58	8	Other treatments	369	17380
+MMS	MMS	-1.79	1.04	9	Other treatments	611	17369
+PladB	PladB	-1.39	1.01	10	Other treatments	1418	17380
+BPDE	BPDE	-1.14	1.14	11	Other treatments	1936	17379
+HU.2	HU.2	-1	1.16	12	Other treatments	2370	17379
+CPT.2	CPT.2	-0.95	1.47	13	Other treatments	2015	17380
+illudinS	illudinS	-0.63	1.37	14	Other treatments	3370	17380
+CPT.1	CPT.1	-0.47	1.05	15	Other treatments	5218	17264
+ICRF	ICRF	-0.46	1.11	16	Other treatments	4993	17306
+IR	IR	-0.45	1.03	17	Other treatments	5454	17315
+H2O2	H2O2	-0.36	1.01	18	Other treatments	6147	17370
+Etoposide	Etoposide	-0.33	1.07	19	Other treatments	5999	17349
+AZD6738	AZD6738	0.05	1.04	20	Other treatments	8617	17272
+Bleomycin	Bleomycin	0.08	1.01	21	Other treatments	9015	17271
+UV	UV	0.08	1.04	22	Other treatments	8815	17361
+Gemcitabine	Gemcitabine	0.25	1.01	23	Other treatments	10294	17382
+Olaparib	Olaparib	0.26	1	24	Other treatments	10378	17277
+HU	HU	0.63	1	25	Other treatments	12679	17350
+Doxorubicin	Doxorubicin	0.76	0.985	26	Other treatments	13656	17368
+CD437	CD437	0.8	0.986	27	Other treatments	13884	17380
+Trabectedin	Trabectedin	2.85	1.02	28	Other treatments	17006	17300
+Calicheamicin	Calicheamicin	2.93	1.01	29	Other treatments	17061	17299
+Formaldehyde	Formaldehyde	3.27	1	30	Other treatments	17284	17293
+Duocarmycin	Duocarmycin	4.79	1	31	Other treatments	17260	17297

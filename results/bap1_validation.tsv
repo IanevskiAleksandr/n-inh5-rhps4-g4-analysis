@@ -1,0 +1,9 @@
+check	observed	status
+A375 genome-wide PDS shRNAs	4/8	PASS
+A375 focused PDS shRNAs	7/7	PASS
+HT1080 focused PDS shRNAs	4/7	PASS
+HT1080 significant shRNA rows	4	PASS
+Olivieri screens	31	PASS
+Phen-DC3 BAP1	normZ=-5.81; screen=1/31; gene=7/17298; DrugZ FDRneg=7.87e-06	PASS
+Pyridostatin BAP1	normZ=-2.56; screen=3/31; gene=163/17374; DrugZ FDRneg=0.552	PASS
+Compact source tables	exact match	PASS

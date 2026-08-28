@@ -1,0 +1,5 @@
+source("R/01_g4_analysis.R")
+source("R/02_motifs.R")
+source("R/03_figure7.R")
+source("R/04_bap1_figure.R")
+source("R/05_validate.R")

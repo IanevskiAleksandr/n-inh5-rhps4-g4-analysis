@@ -1,0 +1,8 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user/
+.Ruserdata
+*.Rout
+data/raw_external/
+
